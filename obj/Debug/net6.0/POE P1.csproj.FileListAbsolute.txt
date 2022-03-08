@@ -13,3 +13,18 @@ C:\Users\sloan\Documents\C#\POE P1\POE P1\obj\Debug\net6.0\refint\POE P1.dll
 C:\Users\sloan\Documents\C#\POE P1\POE P1\obj\Debug\net6.0\POE P1.pdb
 C:\Users\sloan\Documents\C#\POE P1\POE P1\obj\Debug\net6.0\POE P1.genruntimeconfig.cache
 C:\Users\sloan\Documents\C#\POE P1\POE P1\obj\Debug\net6.0\ref\POE P1.dll
+C:\Users\sloan\Documents\C#\POE-P1-Y2\bin\Debug\net6.0\POE P1.exe
+C:\Users\sloan\Documents\C#\POE-P1-Y2\bin\Debug\net6.0\POE P1.deps.json
+C:\Users\sloan\Documents\C#\POE-P1-Y2\bin\Debug\net6.0\POE P1.runtimeconfig.json
+C:\Users\sloan\Documents\C#\POE-P1-Y2\bin\Debug\net6.0\POE P1.dll
+C:\Users\sloan\Documents\C#\POE-P1-Y2\bin\Debug\net6.0\POE P1.pdb
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.csproj.AssemblyReference.cache
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.AssemblyInfoInputs.cache
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.AssemblyInfo.cs
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.csproj.CoreCompileInputs.cache
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.dll
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\refint\POE P1.dll
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.pdb
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\POE P1.genruntimeconfig.cache
+C:\Users\sloan\Documents\C#\POE-P1-Y2\obj\Debug\net6.0\ref\POE P1.dll

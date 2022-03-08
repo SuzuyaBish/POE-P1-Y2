@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sloan\\Documents\\C#\\POE P1\\POE P1\\POE P1.csproj": {}
+    "C:\\Users\\sloan\\Documents\\C#\\POE-P1-Y2\\POE P1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sloan\\Documents\\C#\\POE P1\\POE P1\\POE P1.csproj": {
+    "C:\\Users\\sloan\\Documents\\C#\\POE-P1-Y2\\POE P1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sloan\\Documents\\C#\\POE P1\\POE P1\\POE P1.csproj",
+        "projectUniqueName": "C:\\Users\\sloan\\Documents\\C#\\POE-P1-Y2\\POE P1.csproj",
         "projectName": "POE P1",
-        "projectPath": "C:\\Users\\sloan\\Documents\\C#\\POE P1\\POE P1\\POE P1.csproj",
+        "projectPath": "C:\\Users\\sloan\\Documents\\C#\\POE-P1-Y2\\POE P1.csproj",
         "packagesPath": "C:\\Users\\sloan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sloan\\Documents\\C#\\POE P1\\POE P1\\obj\\",
+        "outputPath": "C:\\Users\\sloan\\Documents\\C#\\POE-P1-Y2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sloan\\AppData\\Roaming\\NuGet\\NuGet.Config",
